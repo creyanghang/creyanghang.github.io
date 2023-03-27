@@ -12,11 +12,11 @@ menu:
     电影: /movies/ || fas fa-video
   友链: /link/ || fas fa-link
   关于: /about/ || fas fa-heart
-
+# 导航
 nav:
   logo: # image
   display_title: true
-  fixed: false # fixed navigation bar
+  fixed: true # fixed navigation bar
 
 # Code Blocks (代碼相關)
 # --------------------------------------
@@ -36,12 +36,13 @@ copy:
     enable: false
     limit_count: 50
 
-# social settings (社交圖標設置)
+# social settings (社交图标设置)
 # formal:
 #   icon: link || the description
 social:
-  # fab fa-github: https://github.com/xxxxx || Github
-  # fas fa-envelope: mailto:xxxxxx@gmail.com || Email
+   fab fa-github: https://github.com/creyanghang || Github
+   fas fa-envelope: mailto:creyanghang@126.com || Email
+   fab fa-qq: http://wpa.qq.com/msgrd?v=3&uin=1138404463&site=qq&menu=yes || QQ
 
 # search (搜索)
 # see https://butterfly.js.org/posts/ceeb73f/#搜索系統
@@ -547,11 +548,11 @@ enter_transitions: true
 # canvas_ribbon (靜止彩帶背景)
 # See: https://github.com/hustcc/ribbon.js
 canvas_ribbon:
-  enable: false
+  enable: true
   size: 150
   alpha: 0.6
   zIndex: -1
-  click_to_change: false
+  click_to_change: true
   mobile: false
 
 # Fluttering Ribbon (動態彩帶)
@@ -649,7 +650,7 @@ subtitle:
   sub:
     - 翻过这座山，他们就会听到你的故事！
     - 这不是你自己的问题，人终归要好好去生活
-    - 我是街上的游魂，而你是闻见我的人
+    - 即使你忘了我，我也不会忘记你
 
 # Loading Animation (加載動畫)
 preloader:
@@ -678,7 +679,7 @@ aside:
     enable: true
     description:
     button:
-      enable: true
+      enable: false
       icon: fab fa-github
       text: Follow Me
       link: https://github.com/xxxxxx
@@ -778,13 +779,13 @@ rightside_item_order:
   hide: # readmode,translate,darkmode,hideAside
   show: # toc,chat,comment
 
-# Lightbox (圖片大圖查看模式)
+# Lightbox (图片放大大图查看模式)
 # --------------------------------------
 # You can only choose one, or neither (只能選擇一個 或者 兩個都不選)
 
 # medium-zoom
 # https://github.com/francoischalifour/medium-zoom
-medium_zoom: false
+medium_zoom: true
 
 # fancybox
 # http://fancyapps.com/fancybox/3/
