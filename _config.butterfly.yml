@@ -103,7 +103,7 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img: https://s.cn.bing.net/th?id=OHR.NYCClouds_ZH-CN2585785154_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&qlt=50
+index_img: /img/back/WildAnza_ZH-CN2384861750_1920x1080.jpg
 
 # If the banner of page not setting, it will show the top_img
 default_top_img:
