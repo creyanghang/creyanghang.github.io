@@ -653,6 +653,7 @@ subtitle:
     - 翻过这座山，他们就会听到你的故事！
     - 这不是你自己的问题，人终归要好好去生活
     - 即使你忘了我，我也不会忘记你
+    - 那年分开的太仓促了 我欠你一句话 祝你幸福
 
 # Loading Animation (加载动画)
 preloader:
@@ -660,7 +661,7 @@ preloader:
   # source
   # 1. fullpage-loading
   # 2. pace (progress bar)
-  source: 2
+  source: 1
   # pace theme (see https://codebyzach.github.io/pace/)
   pace_css_url:
 
