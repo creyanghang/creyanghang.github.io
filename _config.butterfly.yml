@@ -142,6 +142,12 @@ cover:
   default_cover:
      - img/back/BallyvooneyCove_ZH-CN0284564457_1920x1080.jpg
      - img/back/MWDolomites_ZH-CN2886991396_1920x1080.jpg
+     - img/back/AtraniAmalfi_ZH-CN6391731688_1920x1080.jpg
+     - img/back/CanopyPeru_ZH-CN5659581553_1920x1080.jpg
+     - img/back/JavaBromo_ZH-CN2744043733_1920x1080.jpg
+     - img/back/WaimeaRainbow_ZH-CN1127225170_1920x1080.jpg
+     - img/back/WildGarlic_ZH-CN1869796625_1920x1080.jpg
+
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
