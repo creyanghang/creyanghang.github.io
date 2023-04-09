@@ -106,7 +106,7 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img: /img/back/WildAnza_ZH-CN2384861750_1920x1080.jpg
+index_img: /img/back/WaimeaRainbow_ZH-CN1127225170_1920x1080.jpg
 
 # If the banner of page not setting, it will show the top_img
 default_top_img:
@@ -660,8 +660,8 @@ subtitle:
   sub:
     - 翻过这座山，他们就会听到你的故事！
     - 这不是你自己的问题，人终归要好好去生活
-    - 即使你忘了我，我也不会忘记你
-    - 那年分开的太仓促了 我欠你一句话 祝你幸福
+    - 有的人输在不能开始，有的人输在不能坚持
+    - 凡墙皆是门
 
 # Loading Animation (加载动画)
 preloader:
