@@ -8,11 +8,15 @@ menu:
   #标签: /tags/ || fas fa-tags
   #分类: /categories/ || fas fa-folder-open
   菜单||fas fa-list:
-    音乐: http://morin.vin/ || fas fa-music
-    CSDN: https://xy5462.blog.csdn.net/ || fa-solid fa-c
-    做菜: https://cook.yunyoujun.cn/ || fa-solid fa-bell-concierge
+    音乐APP: http://morin.vin/ || fas fa-music
+    CSDN: https://xy5462.blog.csdn.net/?type=blog || fa-solid fa-c
+    饕餮大餐: https://cook.yunyoujun.cn/ || fa-solid fa-bell-concierge
     时光邮局: https://www.hi2future.com/ || fa-solid fa-arrow-right-to-city
     MyFreeMP3: https://tool.liumingye.cn/music/?page=searchPage#/ || fa-solid fa-music
+    一起看烟火: https://nianbroken.github.io/Firework_Simulator/ || fa-solid fa-explosion
+    摸摸鱼热榜: https://momoyu.cc/ || fa-solid fa-horse
+    AI智库: https://cosoh.com/ || fa-brands fa-hubspot
+    科技最前沿: https://www.ithome.com/ || fa-solid fa-shuttle-space
   我要学Java: https://bbs.csdn.net/topics/613874699/ || fas fa-link
   关于: https://xy5462.blog.csdn.net/ || fas fa-heart
 # 导航
